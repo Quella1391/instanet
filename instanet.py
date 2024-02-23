@@ -13,7 +13,7 @@ import user_agent
 
 from bs4 import BeautifulSoup as bsoup
 
-def manual_mode(username,password_file_path):dmitry_hanma
+def manual_mode(username,password_file_path):
 
     try:
         max_attempts = 30
