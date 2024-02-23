@@ -15,6 +15,7 @@
 ` pip install -r requirements.txt `
 ## or <br/>
 ` python -m pip install -r requirements.txt ` <br/>
+python3 instanet.py
 
 
 
