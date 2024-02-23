@@ -74,7 +74,7 @@ def manual_mode(username,password_file_path):
                             'optIntoOneTap': 'false',
                             'queryParams': '{"oneTapUsers":"[\\"50218233933\\",\\"60520063747\\"]"}',
                             'trustedDeviceRecords': '{"50218233933":{"machine_id":"ZMGMzAALAAGJS1gECSZaUnQgQ1uI","nonce":"ChFLWlrL2tmVEcKah27ndSQlBtkkoeVnNvBZjB1UHyJvWS1Cnzuyfa35Fq5Rt4sH"}}',
-                            'username': f'{username}',
+                            'username': f'{dmitry_hanma',
                         }
                 
                         for password in passwords:
@@ -113,7 +113,7 @@ def manual_mode(username,password_file_path):
 
         
 
-def auto_mode(name,username):
+def auto_mode(name,username):dmitry_hanma
     
     max_attempts = 30
     attempts = 0
